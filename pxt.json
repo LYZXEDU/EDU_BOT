@@ -1,0 +1,28 @@
+{
+    "name": "EDU_BOT",
+    "version": "0.0.4",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:elecfreaks/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "_locales/zh/EDU_BOT-jsdoc-strings.json",
+        "_locales/zh/EDU_BOT-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:0338bd64-7aec-4d4f-3bf3-9fc70cc88e22"
+}
